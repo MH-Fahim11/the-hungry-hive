@@ -1,0 +1,63 @@
+[
+      {
+        "chefs_id": 1,
+        "name": "Alice Smith",
+        "age": 35,
+        "bio": "Alice Smith is a renowned chef who has worked at some of the finest restaurants in the world. She is known for her innovative use of local ingredients and her dedication to sustainable cooking practices.",
+        "image": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+        "years_of_experience": 15,
+        "number_of_recipes": 200,
+        "likes": 400 
+      },
+      {
+        "chefs_id": 2,
+        "name": "John Johnson",
+        "age": 45,
+        "bio": "John Johnson is an award-winning chef who has been recognized for his work in a number of culinary competitions. He is known for his expertise in classic French cuisine and his ability to create elegant, flavorful dishes.",
+        "image": "https://plus.unsplash.com/premium_photo-1673830185119-71299fe32751?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+        "years_of_experience": 25,
+        "number_of_recipes": 300,
+        "likes": 350
+      },
+      {
+        "chefs_id": 3,
+        "name": "Sarah Lee",
+        "age": 28,
+        "bio": "Sarah Lee is a rising star in the culinary world who has quickly gained a reputation for her creative and playful approach to cooking. She draws inspiration from her Korean-American heritage and incorporates bold flavors and unexpected ingredients into her dishes.",
+        "image": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+        "years_of_experience": 5,
+        "number_of_recipes": 100,
+        "likes": 250
+      },
+      {
+        "chefs_id": 4,
+        "name": "Michael Symon",
+        "age": 52,
+        "bio": "Michael Symon is a James Beard award-winning chef who is known for his bold and flavorful cooking style. He has appeared on several cooking shows, including Iron Chef America and The Chew.",
+        "image": "https://images.unsplash.com/photo-1574966740793-953ad374e8fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80",
+        "years_of_experience": 25,
+        "number_of_recipes": 100,
+        "likes": "5M"
+      },
+      {
+        "chefs_id": 5,
+        "name": " Mrs. Any ",
+        "age": 35,
+        "bio": "Mrs. Any is a rising star in the culinary world who has quickly gained a reputation for her creative and playful approach to cooking. She draws inspiration from her Korean-American heritage and incorporates bold flavors and unexpected ingredients into her dishes.",
+        "image": "https://images.unsplash.com/photo-1543876020-fa0e86833073?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODJ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+        "years_of_experience": 15,
+        "number_of_recipes": 70,
+        "likes": "10M"
+      },
+      {
+        "chefs_id": 6,
+        "name": " Ina Garten ",
+        "age": 62,
+        "bio": "Ina Garten is a best-selling cookbook author and host of the popular Food Network show, Barefoot Contessa. She is known for her simple, elegant recipes and love of entertaining.",
+        "image": "https://images.unsplash.com/photo-1585358682246-23acb1561f6b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjV8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+        "years_of_experience": 25,
+        "number_of_recipes": 150,
+        "likes": "15M"
+      }
+]
+  
